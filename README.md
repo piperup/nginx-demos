@@ -27,4 +27,4 @@ or
 ## Resources
 
 - [Medium - Mastering Nginx: A Beginner-Friendly Guide to Building a Fast, Secure, and Scalable Web Server](https://medium.com/@nomannayeem/mastering-nginx-a-beginner-friendly-guide-to-building-a-fast-secure-and-scalable-web-server-cb075b423298)
-a
+
